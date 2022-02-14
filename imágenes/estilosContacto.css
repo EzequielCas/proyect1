@@ -1,0 +1,63 @@
+header img{
+    position: relative;
+    margin-left: 20px;
+    background-color: rgb(22, 199, 36);
+   }
+
+   header nav{
+    float: right;
+    position: relative;
+    right: 400px;
+    top:40px;
+   
+   }
+   
+   nav li{
+    float: left;
+    padding: 0px 15px;
+    margin: 0px 10px;
+    list-style-type: none;
+   }
+   
+   li a{
+    text-decoration: none;
+   }
+   
+   body{
+    background-color:rgb(101, 219, 17);
+    box-sizing: border-box;
+    width: 90%;
+   }
+
+   #inicio1:hover{
+    background-color: antiquewhite;
+   }
+   #inicio2:hover{
+    background-color: antiquewhite;
+   }
+   #inicio3:hover{
+    background-color: antiquewhite;
+   }
+   #inicio0:hover{
+    background-color: antiquewhite;
+   }
+   
+   #Veterinario1{
+
+    position: relative;
+    left: 100px;    
+   
+   }
+
+   #contacto {
+    
+    position: relative;
+    top: 50px;    
+   }
+
+   #contacto2{
+    position: relative;
+    width: 22.2%;
+    left: 100px;
+    
+   }
