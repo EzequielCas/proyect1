@@ -1,0 +1,90 @@
+
+header img{
+    position: relative;
+    margin-left: 20px;
+    background-color: rgb(22, 199, 36);
+   }
+
+   header nav{
+    float: right;
+    position: relative;
+    right: 400px;
+    top:40px;
+   
+   }
+   
+   nav li{
+    float: left;
+    padding: 0px 15px;
+    margin: 0px 10px;
+    list-style-type: none;
+   }
+   
+   li a{
+    text-decoration: none;
+   }
+   
+   body{
+    background-color:rgb(101, 219, 17);
+    box-sizing: border-box;
+    width: 90%;
+   }
+
+   #inicio1:hover{
+    background-color: antiquewhite;
+   }
+   #inicio2:hover{
+    background-color: antiquewhite;
+   }
+   #inicio3:hover{
+    background-color: antiquewhite;
+   }
+   #inicio0:hover{
+    background-color: antiquewhite;
+   }
+   
+   #Veterinario1{
+
+    position: relative;
+    left: 100px;
+   
+   }
+   
+   #mascotaniño{
+       position: relative;
+       left:200px
+   }
+
+   #frase{
+       position: relative;
+       left: 100px;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+      
+   }
+   #parrafos{
+    position: relative;
+    left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid;
+    box-sizing: border-box;
+    width: 50%;
+    margin: 0px 5px;
+    padding: 10px;
+    
+   }
+
+#horario {
+    position:relative;
+    left: 100px;
+}
+#tabla {
+    position: relative;
+    left: 100px;
+    width: 50%;
+}
+
+#cariño{
+    position: relative;
+    left: 850px;
+    bottom: 350px;
+}
